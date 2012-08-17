@@ -1,7 +1,7 @@
 #Genera tan
 
 ##License
-この絵の著者は 苅山春馬 氏です．
-この絵の権利は，権利譲渡を受けた yoshihiro503 が所持しています．
-この絵はGPLライセンスの元で自由に使うことができます．
-GPLに関する詳細はCOPYINGをご覧ください．
+This picture is drawn by Haruma Kariyama.
+Yoshihiro Imai has a licence of the picture.
+You can use the picture with the GPL license.
+Please, see COPYING.
