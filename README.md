@@ -1,4 +1,4 @@
-#Genera tan
+#General tan
 
 ##License
 This picture is drawn by Haruma Kariyama.
